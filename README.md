@@ -29,3 +29,6 @@ HTML5 – Structure of the app
 CSS3 – Styling and layout
 
 JavaScript (ES6) – Functionality and local storage handling
+
+https://github.com/user-attachments/assets/b8b34f61-bcb4-4c85-98bb-84e18ddd9681
+
